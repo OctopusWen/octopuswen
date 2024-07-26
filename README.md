@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=octopuswen)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=octopuswen" alt="Image 1" style="height: 20vh; max-width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopuswen" alt="Image 2" style="height: 20vh; max-width: 28%">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octopuswen)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=octopuswen&left_color=green&right_color=red)
+<img src="https://komarev.com/ghpvc/?username=octopuswen&&style=flat-square" align="center" />
