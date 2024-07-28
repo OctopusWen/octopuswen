@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=octopuswen" alt="Image 1" style="height: 20vh; max-width: 60%;">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=octopuswen" alt="Image 1" style="height: 20vh; max-width: 60%;"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopuswen" alt="Image 2" style="height: 20vh; max-width: 28%">
 </div>
 
